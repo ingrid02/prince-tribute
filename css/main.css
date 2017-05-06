@@ -1,0 +1,34 @@
+body {
+  background-color:#e6b3ff;
+}
+.main {
+width:1200px;
+
+}
+h1 {
+  color:purple;
+  text-align:center;
+
+}
+.main-img {
+  margin: auto;
+  display:block;
+  width:25%;
+
+}
+
+.lifestory  {
+text-align:justify;
+margin: 0px 10px;
+}
+.gallery  {
+  display:block;
+  margin:auto;
+  }
+.img1,.img2,.img3{
+  float:left;
+
+}
+.more-info  {
+  clear:both;
+}
